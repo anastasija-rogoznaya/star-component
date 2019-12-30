@@ -3,6 +3,8 @@
     <types>
         <members>OpportunityRatingController</members>
         <members>RatingController</members>
+        <members>ViewCommetCtrl</members>
+        <members>ContactComponentController</members>
         <name>ApexClass</name>
     </types>
     <types>

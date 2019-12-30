@@ -17,7 +17,7 @@
                 <div class="slds-media slds-media--center slds-has-flexi-truncate">
                     <lightning:icon iconName="custom:custom11" size="medium" alternativeText="Star"/>
                     <div class="slds-media__body">
-                        <h2 class="slds-text-heading--small slds-truncate">&nbsp;How much do you rate this?</h2>
+                        <h2 class="slds-text-heading--small slds-truncate">&nbsp;How much do you rate this?*</h2>
                     </div>
                 </div>
             </div>
